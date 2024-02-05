@@ -1,0 +1,64 @@
+*{
+    font-family: Helvetica;
+    font-weight: bold;
+}
+
+*:focus{
+    outline:none;
+}
+
+
+
+body{
+    background-image: url('day.jpg');
+}
+
+header{
+    font-size: 50px;
+    text-align:center;
+    color:white;
+}
+
+.Weather-Container{
+    text-align:center;
+    padding-top:30px;
+    font-size: 25px;
+}
+
+
+img{
+    width:200px;
+    height:200px;
+}
+
+p{
+    color:white;
+}
+
+input{
+    width: 200px;
+    height: 30px;
+
+    border: none;
+}
+
+form{
+    padding-bottom: 10px;
+}
+
+button{
+    width: 100px;
+    height: 30px;
+
+    border: none;
+    background-color: #fff;
+    color: black;
+}
+
+.temp{
+    text-align:center;
+}
+
+.arrow{
+    color:white;
+}
